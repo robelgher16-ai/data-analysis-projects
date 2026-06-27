@@ -41,20 +41,18 @@ The dataset is created directly in the notebook as a Python dictionary and conve
 pip install pandas
 
 ### Run the Notebook
-jupyter notebook project_1.ipynb
+jupyter lab project_1.ipynb
 
-Or open it directly in **Google Colab**, **VS Code**, or **JupyterLab**.
+Or open it directly in **Google Colab** or **VS Code**.
 
 ## 📁 File Structure
-project_1.ipynb   ← Main notebook with all 17 exercises
+Pandas DataFrame Basics — Project 1.ipynb   ← Main notebook with all 17 exercises
 README.md         ← This file
 
 ## 🛠️ Tech Stack
 - Python 3.x
 - pandas
+- JupyterLab
 
 ## 📬 Author
-Add your name and GitHub profile link here.
-
----
-> This project is part of a pandas learning series. More projects coming soon.
+**Robel Gebregziabher** — [github.com/robelgher16-ai](https://github.com/robelgher16-ai)
